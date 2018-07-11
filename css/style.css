@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+h1{
+  font-family: 'Yatra One', cursive;
+  color: #ff0e2b;
+  font-size: 30px;
+}
+
+canvas{
+  width: 25%;
+  height: 25%;
+}
+
+.image1:hover, .image2:hover, .image3:hover, .image4:hover, .image5:hover{
+  border-style: solid;
+  border-color: #52bb90;
+  border-width: thick;
+  background-color: #ffffff;
+}
